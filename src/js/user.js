@@ -19,3 +19,4 @@ export const person = {
 
 export default user 
 
+/* export {person} */
