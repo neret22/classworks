@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/neret22/classworks/issues"
   },
-  "homepage": "https://github.com/neret22/classworks#readme"
+  "homepage": "https://github.com/neret22/classworks#readme",
+  "dependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
 }
